@@ -2,17 +2,13 @@
 A Web Scrapper created in Python to scrap company names pincode - wise.
 
 Libraries Used :
-  import requests as req
-  
-  import pandas as pd
-  
-  import numphy
-  
-  import re
-  
-  from bs4 import BeautifulSoup 
-  
-  from pandas import ExcelWriter
+
+  	import requests as req
+  	import pandas as pd
+  	import numphy
+  	import re
+  	from bs4 import BeautifulSoup 
+  	from pandas import ExcelWriter
   
   
   
